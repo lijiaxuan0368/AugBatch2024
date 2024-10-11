@@ -1,0 +1,15 @@
+﻿<h1>
+    Top Rated Movies
+</h1>
+
+@model List<ApplicationCore.Models.MovieCardResponseModel>
+
+@{
+    ViewData["Title"] = "Movie Home Page";
+}
+
+@foreach(var movie in Model)
+{
+    <div>Movie Id @movie.Id</div>
+    <img href=@movie.PosterUrl alt="Poster of @movie.Id"/>
+}
