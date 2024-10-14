@@ -29,5 +29,15 @@ namespace MovieShopMVC.Controllers
         }
         // UserController
         // GenreController
+
+
+        // www.walmart.com/movie/Details/id
+        public IActionResult Details(int id)
+        {
+            var movies = _movieService.GetTopRatedMovies();
+            var movie = movies.Select(m => m.Id = id).FirstOrDefault();
+
+            return View(movie);
+        }
     }
 }

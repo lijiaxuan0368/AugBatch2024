@@ -8,8 +8,16 @@
     ViewData["Title"] = "Movie Home Page";
 }
 
-@foreach(var movie in Model)
-{
-    <div>Movie Id @movie.Id</div>
-    <img href=@movie.PosterUrl alt="Poster of @movie.Id"/>
-}
+<div class="rounded">
+    <div class="container-fluid">
+        <div class="row">
+            @foreach (var movie in Model)
+            {
+                <div> 
+                    @* call partial view from here *@
+                    <partial name="_MovieCard" model="movie" />
+                </div>
+            }
+        </div>
+    </div>
+</div>
