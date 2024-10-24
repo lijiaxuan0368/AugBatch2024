@@ -1,8 +1,8 @@
-using ApplicationCore.ServiceInterface;
 using ApplicationCore.RepositoryInterface;
-using Infrastructure.Service;
-using Infrastructure.Repository;
+using ApplicationCore.ServiceInterface;
 using Infrastructure.Data;
+using Infrastructure.Repository;
+using Infrastructure.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +11,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IMovieService, MovieService>();
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 // AddTransient , AddSingleton  
 // Single Object

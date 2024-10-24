@@ -21,9 +21,9 @@ namespace MovieShopMVC.Controllers
         // www.walmart.com/movie/TopRated
 
         [HttpGet]
-        public IActionResult TopRated()
+        public async Task<IActionResult> TopRated()
         {
-            var movies = _movieService.GetTopRatedMovies();
+            var movies = await _movieService.GetTopRatedMovies();
 
             return View(movies);
         }
@@ -32,12 +32,12 @@ namespace MovieShopMVC.Controllers
 
 
         // www.walmart.com/movie/Details/id
-        public IActionResult Details(int id)
-        {
-            var movies = _movieService.GetTopRatedMovies();
-            var movie = movies.Select(m => m.Id = id).FirstOrDefault();
+        //public IActionResult Details(int id)
+        //{
+        //    var movies = _movieService.GetTopRatedMovies();
+        //    var movie = movies.Select(m => m.Id = id).FirstOrDefaultAsy();
 
-            return View(movie);
-        }
+        //    return View(movie);
+        //}
     }
 }

@@ -5,6 +5,6 @@ namespace ApplicationCore.ServiceInterface
 {
     public interface IMovieService
     {
-        IEnumerable<MovieCardResponseModel> GetTopRatedMovies();
+        Task<IEnumerable<MovieCardResponseModel>> GetTopRatedMovies();
     }
 }

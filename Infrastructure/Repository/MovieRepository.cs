@@ -1,20 +1,34 @@
 ﻿using ApplicationCore.Entities;
 using ApplicationCore.RepositoryInterface;
+using Infrastructure.Data;
 
 namespace Infrastructure.Repository
 {
     public class MovieRepository : IMovieRepository
     {
-        public IEnumerable<Movie> GetTopRatedMovies()
+        // DI 
+        private readonly MovieShopDbContext _dbContext;
+        private readonly IAsyncRepository<Movie> _efRepository;
+
+        public MovieRepository(MovieShopDbContext dbContext, IAsyncRepository<Movie> efRepository)
         {
-            // DB retrieve data
-            var movies = new List<Movie> {
-                new Movie{Id = 1,Title = "Inception",PosterUrl = "https://image.tmdb.org/t/p/w342//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",Revenue = 825532764},
-                new Movie{Id = 2,Title = "Inception",PosterUrl = "https://image.tmdb.org/t/p/w342//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",Revenue = 825532764},
-                new Movie{Id = 3,Title = "Inception",PosterUrl = "https://image.tmdb.org/t/p/w342//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",Revenue = 825532764},
-                new Movie{Id = 4,Title = "Inception",PosterUrl = "https://image.tmdb.org/t/p/w342//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",Revenue = 825532764},
-                new Movie{Id = 5,Title = "Inception",PosterUrl = "https://image.tmdb.org/t/p/w342//9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",Revenue = 825532764}
-            };
+            _dbContext = dbContext;
+            _efRepository = efRepository;   
+        }
+
+        public async Task<IEnumerable<Movie>> GetTopRatedMovies()
+        {
+            // DB retrieve data -> LINQ 
+            //var movies = await _dbContext.Movies.Select(m => new Movie
+            //{
+            //    Id = m.Id,s
+            //    PosterUrl = m.PosterUrl,
+            //    Title = m.Title,
+            //    ReleaseDate = m.ReleaseDate,
+            //    Rating = m.Rating,
+            //}).Take(30).ToArrayAsync();
+
+            var movies = await _efRepository.ListAllAsync();
 
             return movies;
         }
