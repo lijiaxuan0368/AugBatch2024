@@ -1,6 +1,7 @@
 ﻿using ApplicationCore.Entities;
 using ApplicationCore.Models;
 using ApplicationCore.RepositoryInterface;
+using ApplicationCore.RepositoryInterfaces;
 using ApplicationCore.ServiceInterface;
 using Microsoft.AspNetCore.Cryptography.KeyDerivation;
 using System.Security.Cryptography;
@@ -10,9 +11,13 @@ namespace Infrastructure.Service
     public class UserService : IUserService
     {
         private readonly IUserRepository _userRepository;
-        public UserService(IUserRepository userRepository)
+        private readonly IMovieService _movieService;
+        private readonly IPurchaseRepository _purchaseRepository;
+        public UserService(IUserRepository userRepository, IMovieService movieService, IPurchaseRepository purchaseRepository)
         {
             _userRepository = userRepository;
+            _movieService = movieService;   
+            _purchaseRepository = purchaseRepository;
         }
         public async Task<UserRegisterResponseModel> RegisterUser(UserRegisterRequestModel requestModel)
         {
@@ -24,8 +29,10 @@ namespace Infrastructure.Service
                 // email exist in the database
                 throw new Exception($"Email {requestModel.Email} exists, please try again.");
             }
-            //  continue
+
+            // continue => Emmail doesn't exist in the DB
             // create a random salt and has the password with the salt
+            // Using Library:  Microsoft.AspNetCore.Cryptography.KeyDerivation
             var salt = GenerateSalt();
             var hashedPassword = GenerateHashedPassword(requestModel.Password, salt);
 
@@ -40,6 +47,7 @@ namespace Infrastructure.Service
                 HashedPassword = hashedPassword
             };
 
+            // Save in DB -> Repository
             var createdUser = await _userRepository.AddAsync(newUser);
 
             var userRegisterResponseModel = new UserRegisterResponseModel
@@ -55,15 +63,15 @@ namespace Infrastructure.Service
 
         public async Task<UserLoginResponseModel> ValidateUser(string email, string password)
         {
-            // get the user info from database by email
+            // Get the user info from database by email
             var user = await _userRepository.GetUserByEmail(email);
             if (user == null)
             {
-                // we dont have the email in the database
+                // Don't have the email in the database
                 return null;
             }
 
-            // we need to hash the user entered password along with salt from database
+            // Hash the user entered password along with salt from database
             var hashedPassword = GenerateHashedPassword(password, user.Salt);
             if (hashedPassword == user.HashedPassword)
             {
@@ -81,6 +89,33 @@ namespace Infrastructure.Service
             return null;
         }
 
+        public async Task<bool> PurchaseMovie(PurchaseRequestModel purchaseRequest, int userId)
+        {
+            // See if Movie is already purchased.
+            if (await IsMoviePurchased(purchaseRequest, userId))
+                throw new Exception("Movie already Purchased");
+            // Get Movie Price from Movie Table
+            var movie = await _movieService.GetMovieAsync(purchaseRequest.MovieId);
+
+            var purchase = new Purchase
+            {
+                MovieId = purchaseRequest.MovieId,
+                PurchaseNumber = Guid.NewGuid(),
+                PurchaseDateTime = DateTime.UtcNow,
+                TotalPrice = movie.Price.GetValueOrDefault(),
+                UserId = userId
+            };
+            //  var purchase = _mapper.Map<Purchase>(purchaseRequest);
+            var createdPurchase = await _purchaseRepository.AddAsync(purchase);
+            return createdPurchase.Id > 0;
+        }
+
+        public async Task<bool> IsMoviePurchased(PurchaseRequestModel purchaseRequest, int userId)
+        {
+            return await _purchaseRepository.GetExistsAsync(p =>
+                p.UserId == userId && p.MovieId == purchaseRequest.MovieId);
+        }
+
         // copy from documentation
         private string GenerateSalt()
         {
@@ -92,7 +127,12 @@ namespace Infrastructure.Service
             return Convert.ToBase64String(randomBytes);
         }
 
-        // copy again
+        /* *
+         * Hashing Rules:
+         * NEVER create your own hashing algorithm -> KeyDerivation.Pbkdf2; Argon2
+         * */
+
+        // copy from documentation
         private string GenerateHashedPassword(string password, string salt)
         {
             var hashed = Convert.ToBase64String(KeyDerivation.Pbkdf2(

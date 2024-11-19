@@ -1,8 +1,11 @@
 using ApplicationCore.RepositoryInterface;
+using ApplicationCore.RepositoryInterfaces;
 using ApplicationCore.ServiceInterface;
 using Infrastructure.Data;
+using Infrastructure.Repositories;
 using Infrastructure.Repository;
 using Infrastructure.Service;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,8 +16,10 @@ builder.Services.AddScoped<IMovieService, MovieService>();
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<ICurrentUserService, CurrentUserService>();
+builder.Services.AddScoped<IPurchaseRepository, PurchaseRepository>();
 
-// AddTransient , AddSingleton  
+// AddTransient, AddSingleton  
 // Single Object
 // Http Request
 builder.Services.AddDbContext<MovieShopDbContext>(
@@ -22,6 +27,15 @@ builder.Services.AddDbContext<MovieShopDbContext>(
 );
 
 // builder.Configuration.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.Cookie.Name = "MovieShopAuthCookie";
+        options.ExpireTimeSpan = TimeSpan.FromMinutes(10);
+        options.LoginPath = "/account/login"; // When cookie is not valid, redirect to /account/login
+    });
+
+builder.Services.AddHttpContextAccessor();
 
 
 var app = builder.Build();
@@ -39,6 +53,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+// Middleware
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

@@ -16,7 +16,7 @@ namespace ApplicationCore.Entities
         public string Email { get; set; }
         public string HashedPassword { get; set; }
         public string Salt { get; set; }
-        public string PhoneNumber { get; set; }
+        public string? PhoneNumber { get; set; }
         public bool? TwoFactorEnabled { get; set; }
         public DateTime? LockoutEndDate { get; set; }
         public DateTime? LastLoginDateTime { get; set; }

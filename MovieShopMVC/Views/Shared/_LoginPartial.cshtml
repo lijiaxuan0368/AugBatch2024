@@ -1,0 +1,42 @@
+﻿@using System.Security.Claims;
+@using ApplicationCore.ServiceInterface;
+
+@inject ICurrentUserService _currentUserService;
+
+@*filter*@
+
+@if (User.Identity.IsAuthenticated)
+{
+    @* If user is not login then show login and register buttons *@
+    <div class="navbar-collapse">
+        <ul class="navbar-nav ms-auto">
+            <li class="nav-item dropdown text-capitalize">
+                <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    @* Hi, @User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.GivenName).Value @User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Surname).Value *@
+                    Hi _currentUserService.FullName
+                </button>
+
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">Purchased Movies</a></li>
+                    <li><a class="dropdown-item" href="#">Favorite Movies</a></li>
+                    <li><a class="dropdown-item" href="#">Account</a></li>
+                    <li><a class="dropdown-item" asp-controller="Account" asp-action="Logout">Logout</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+}
+else
+{
+    @* if login success, show user's name links for purchasese favorites and logout *@
+    <div class="navbar-collapse collapse w-100">
+        <ul class="navbar-nav ms-auto">
+            <li class="nav-item p-2">
+                <a class="btn btn-outline-primary" asp-controller="Account" asp-action="Login">Login</a>
+            </li>
+            <li class="nav-item p-2">
+                <a class="btn btn-outline-primary" asp-controller="Account" asp-action="Register">Register</a>
+            </li>
+        </ul>
+    </div>
+}

@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 namespace Infrastructure.Repository
 {
     public class EfRepository<T> : IAsyncRepository<T> where T : class
-    {
+    {// 
         protected readonly MovieShopDbContext _dbContext;
         public EfRepository(MovieShopDbContext dbContext)
         {
@@ -48,6 +48,12 @@ namespace Infrastructure.Repository
             _dbContext.Entry(entity).State = EntityState.Modified;
             await _dbContext.SaveChangesAsync();
             return entity;  
+        }
+
+        public virtual async Task<bool> GetExistsAsync(Expression<Func<T, bool>> filter = null)
+        {
+            if (filter == null) return false;
+            return await _dbContext.Set<T>().Where(filter).AnyAsync();
         }
     }
 }
