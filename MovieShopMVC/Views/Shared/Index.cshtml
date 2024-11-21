@@ -1,0 +1,32 @@
+﻿@*If user login succeed, display {firstName} {lastName} for purchases, favorites and logout*@
+@if (User.Identity.IsAuthenticated)
+{
+    <div class="navbar-collapse">
+        <ul class="navbar-nav m-lg-auto dropdown-menu">
+            <li><a class="dropdown-item" href="#">Purchased Movies</a></li>
+            <li><a class="dropdown-item" href="#">Favorite Movies</a></li>
+            <li><hr class="dropdown-divider">Account</li>
+            <li><a class="dropdown-item" href="#">Logout</a></li>
+        </ul>
+    </div>
+}
+else
+{
+    <div class="navbar-collapse">
+        <ul class="navbar-nav m-lg-auto">
+            @*
+        if user is not login, then display [Login] [Register]
+        *@
+
+            <li class="navbar-nav m-lg-auto">
+                <a class="btn btn-primary">Register</a>
+            </li>
+            <li class="navbar-nav m-lg-auto">
+                <a class="btn btn-outline-primary">Login</a>
+            </li>
+
+        </ul>
+    </div>
+}
+
+

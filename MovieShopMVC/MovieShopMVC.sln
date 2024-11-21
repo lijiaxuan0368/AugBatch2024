@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShopMVC", "MovieShopMVC.csproj", "{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieShopMVC", "MovieShopMVC.csproj", "{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationCore", "..\ApplicationCore\ApplicationCore.csproj", "{8F22CFED-BCCA-4DCC-8850-11CAF427C953}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationCore", "..\ApplicationCore\ApplicationCore.csproj", "{8F22CFED-BCCA-4DCC-8850-11CAF427C953}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{826CF7F5-8131-410F-A23F-6B2DCB729BEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{826CF7F5-8131-410F-A23F-6B2DCB729BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieShopAPI", "..\MovieShopAPI\MovieShopAPI.csproj", "{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{826CF7F5-8131-410F-A23F-6B2DCB729BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{826CF7F5-8131-410F-A23F-6B2DCB729BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{826CF7F5-8131-410F-A23F-6B2DCB729BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

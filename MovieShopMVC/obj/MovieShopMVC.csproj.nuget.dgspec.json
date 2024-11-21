@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\MovieShopMVC.csproj": {}
+    "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\MovieShopMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minka\\source\\repos\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\minka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\minka\\source\\repos\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\minka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minka\\source\\repos\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\minka\\source\\repos\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -114,6 +114,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -152,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\MovieShopMVC.csproj": {
+    "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\MovieShopMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\MovieShopMVC.csproj",
+        "projectUniqueName": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\MovieShopMVC.csproj",
         "projectName": "MovieShopMVC",
-        "projectPath": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\MovieShopMVC.csproj",
+        "projectPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\MovieShopMVC.csproj",
         "packagesPath": "C:\\Users\\minka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\obj\\",
+        "outputPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minka\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -177,11 +185,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\minka\\source\\repos\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\Users\\minka\\source\\repos\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -210,6 +218,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
             },
             "System.ComponentModel.Annotations": {
               "target": "Package",

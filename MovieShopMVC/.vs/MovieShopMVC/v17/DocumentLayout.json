@@ -1,50 +1,131 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\",
+  "WorkspaceRootPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\source\\repos\\applicationcore\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}|..\\MovieShopAPI\\MovieShopAPI.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\source\\repos\\movieshopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\repository\\purchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\source\\repos\\infrastructure\\migrations\\20241011200626_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\source\\repos\\applicationcore\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\models\\moviedetailsresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\source\\repos\\infrastructure\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\repositoryinterface\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\source\\repos\\movieshopmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\repositoryinterface\\ipurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\source\\repos\\infrastructure\\data\\movieshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\source\\repos\\applicationcore\\serviceinterface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\source\\repos\\movieshopmvc\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\serviceinterface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\models\\userreviewresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\repositoryinterface\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\serviceinterface\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\models\\moviereviewresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\models\\castresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}|..\\MovieShopAPI\\MovieShopAPI.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}|..\\MovieShopAPI\\MovieShopAPI.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}|..\\MovieShopAPI\\MovieShopAPI.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopapi\\movieshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopmvc\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\source\\repos\\infrastructure\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}|..\\MovieShopAPI\\MovieShopAPI.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\source\\repos\\movieshopmvc\\views\\movie\\toprated.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:views\\movie\\toprated.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}|..\\MovieShopAPI\\MovieShopAPI.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopapi\\movieshopapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\source\\repos\\applicationcore\\repositoryinterface\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88D1816E-C6A9-4EE8-A6C2-6B6E17802203}|..\\MovieShopAPI\\MovieShopAPI.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopapi\\movieshopapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\source\\repos\\movieshopmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\serviceinterface\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\service\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826CF7F5-8131-410F-A23F-6B2DCB729BEF}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\infrastructure\\data\\movieshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\movieshopmvc\\views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D86A2CAC-07D7-429C-BF51-12D4A4F0BE09}|MovieShopMVC.csproj|solutionrelative:views\\shared\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\repositoryinterface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F22CFED-BCCA-4DCC-8850-11CAF427C953}|..\\ApplicationCore\\ApplicationCore.csproj|c:\\users\\minka\\onedrive\\documents\\.net training\\c#\\augbatch2024\\applicationcore\\entities\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,175 +135,512 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241011200626_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Migrations\\20241011200626_InitialMigration.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20241011200626_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Migrations\\20241011200626_InitialMigration.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20241011200626_InitialMigration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T20:06:27.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\Entities\\Genre.cs",
-              "RelativeDocumentMoniker": "..\\ApplicationCore\\Entities\\Genre.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\Entities\\Genre.cs",
-              "RelativeToolTip": "..\\ApplicationCore\\Entities\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T19:59:48.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-11T19:44:19.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T19:13:38.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Service\\MovieService.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Service\\MovieService.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Service\\MovieService.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Service\\MovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\RepositoryInterface\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\RepositoryInterface\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\RepositoryInterface\\IAsyncRepository.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\RepositoryInterface\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:47:40.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TopRated.cshtml",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\Views\\Movie\\TopRated.cshtml",
-              "RelativeDocumentMoniker": "Views\\Movie\\TopRated.cshtml",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\Views\\Movie\\TopRated.cshtml",
-              "RelativeToolTip": "Views\\Movie\\TopRated.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T20:09:14.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MovieController.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\Controllers\\MovieController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\Controllers\\MovieController.cs",
-              "RelativeToolTip": "Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:44:48.02Z",
+              "WhenOpened": "2024-10-17T20:41:20.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\Entities\\Movie.cs",
-              "RelativeDocumentMoniker": "..\\ApplicationCore\\Entities\\Movie.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\Entities\\Movie.cs",
-              "RelativeToolTip": "..\\ApplicationCore\\Entities\\Movie.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAjAAAAAAAAAA==",
+              "Title": "MovieDetailsResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Models\\MovieDetailsResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\Models\\MovieDetailsResponseModel.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Models\\MovieDetailsResponseModel.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\Models\\MovieDetailsResponseModel.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:41:16.161Z",
+              "WhenOpened": "2024-11-19T08:23:19.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MovieShopDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Data\\MovieShopDbContext.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\MovieShopDbContext.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Data\\MovieShopDbContext.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Data\\MovieShopDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MovieShopAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\Program.cs",
+              "RelativeToolTip": "..\\MovieShopAPI\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T19:41:38.844Z",
+              "WhenOpened": "2024-11-14T21:19:14.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:15:50.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPurchaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\RepositoryInterface\\IPurchaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\RepositoryInterface\\IPurchaseRepository.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\RepositoryInterface\\IPurchaseRepository.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\RepositoryInterface\\IPurchaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:51:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Program.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:29:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Repository\\PurchaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\PurchaseRepository.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Repository\\PurchaseRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\PurchaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:52:17.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\ServiceInterface\\IMovieService.cs",
-              "RelativeDocumentMoniker": "..\\ApplicationCore\\ServiceInterface\\IMovieService.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\ServiceInterface\\IMovieService.cs",
-              "RelativeToolTip": "..\\ApplicationCore\\ServiceInterface\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Repository\\EfRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Repository\\EfRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\EfRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwC0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:46:20.174Z",
+              "WhenOpened": "2024-10-28T20:10:01.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Service\\UserService.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Service\\UserService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:05:40.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Repository\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\MovieRepository.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\Infrastructure\\Repository\\MovieRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repository\\MovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ServiceInterface\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\ServiceInterface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ServiceInterface\\IUserService.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\ServiceInterface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:50:54.408Z",
+              "WhenOpened": "2024-11-19T08:53:17.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Service\\MovieService.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Service\\MovieService.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Service\\MovieService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:22:26.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\RepositoryInterface\\IMovieRepository.cs",
-              "RelativeDocumentMoniker": "..\\ApplicationCore\\RepositoryInterface\\IMovieRepository.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\ApplicationCore\\RepositoryInterface\\IMovieRepository.cs",
-              "RelativeToolTip": "..\\ApplicationCore\\RepositoryInterface\\IMovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Title": "UserReviewResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Models\\UserReviewResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\Models\\UserReviewResponseModel.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Models\\UserReviewResponseModel.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\Models\\UserReviewResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T19:50:20.529Z",
+              "WhenOpened": "2024-11-19T08:25:45.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\minka\\source\\repos\\MovieShopMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\RepositoryInterface\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\RepositoryInterface\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\RepositoryInterface\\IMovieRepository.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\RepositoryInterface\\IMovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:04:42.805Z",
+              "WhenOpened": "2024-11-19T08:45:09.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ServiceInterface\\IMovieService.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\ServiceInterface\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ServiceInterface\\IMovieService.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\ServiceInterface\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:49:02.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:03:45.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:43:26.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieReviewResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Models\\MovieReviewResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\Models\\MovieReviewResponseModel.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Models\\MovieReviewResponseModel.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\Models\\MovieReviewResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:26:12.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CastResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Models\\CastResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\Models\\CastResponseModel.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Models\\CastResponseModel.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\Models\\CastResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:24:08.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\MovieShopAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\MovieShopAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:40:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:07:54.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MovieShopAPI",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\MovieShopAPI.csproj",
+              "RelativeDocumentMoniker": "..\\MovieShopAPI\\MovieShopAPI.csproj",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\MovieShopAPI.csproj",
+              "RelativeToolTip": "..\\MovieShopAPI\\MovieShopAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T21:20:01.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:21:58.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "..\\MovieShopAPI\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "..\\MovieShopAPI\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:26:34.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MovieShopAPI.http",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\MovieShopAPI.http",
+              "RelativeDocumentMoniker": "..\\MovieShopAPI\\MovieShopAPI.http",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\MovieShopAPI.http",
+              "RelativeToolTip": "..\\MovieShopAPI\\MovieShopAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-14T21:35:12.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Service\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Service\\CurrentUserService.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Service\\CurrentUserService.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Service\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:24:03.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MovieShopAPI",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\MovieShopAPI.csproj",
+              "RelativeDocumentMoniker": "..\\MovieShopAPI\\MovieShopAPI.csproj",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\MovieShopAPI.csproj",
+              "RelativeToolTip": "..\\MovieShopAPI\\MovieShopAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T21:35:20.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\MovieShopAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\MovieShopAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T21:35:21.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:48:57.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Views\\Shared\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Views\\Shared\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:33:38.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:14:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T20:46:29.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:20:33.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ServiceInterface\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\ServiceInterface\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ServiceInterface\\ICurrentUserService.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\ServiceInterface\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:24:50.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\MovieShopMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:58:23.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\appsettings.json",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\appsettings.json",
+              "RelativeToolTip": "..\\Infrastructure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T20:03:38.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Entities\\MovieGenre.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\Entities\\MovieGenre.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Entities\\MovieGenre.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\Entities\\MovieGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:10:14.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MovieShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Data\\MovieShopDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\MovieShopDbContext.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\Infrastructure\\Data\\MovieShopDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Data\\MovieShopDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:02:54.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\Entities\\User.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:04:16.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\RepositoryInterface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationCore\\RepositoryInterface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\RepositoryInterface\\IUserRepository.cs",
+              "RelativeToolTip": "..\\ApplicationCore\\RepositoryInterface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:47:53.863Z",
               "EditorCaption": ""
             }
           ]
