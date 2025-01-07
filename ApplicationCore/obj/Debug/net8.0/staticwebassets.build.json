@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "DYKFzI0t6Q6IC72fLrB+gV4bp2lcva8GrbO0m756uKA=",
+  "Hash": "B1//5MK2mn+Gv0jNNMtxnytcjsS0SP8ujykc+LYqkok=",
   "Source": "ApplicationCore",
   "BasePath": "_content/ApplicationCore",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

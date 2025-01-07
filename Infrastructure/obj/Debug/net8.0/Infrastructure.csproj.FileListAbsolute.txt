@@ -1,287 +1,436 @@
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ApplicationCore.deps.json
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ApplicationCore.runtimeconfig.json
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ApplicationCore.exe
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\appsettings.json
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Infrastructure.exe
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ApplicationCore.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ApplicationCore.pdb
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\staticwebassets\msbuild.Infrastructure.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\staticwebassets\msbuild.build.Infrastructure.props
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Infrastructure.props
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Infrastructure.props
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\scopedcss\bundle\Infrastructure.styles.css
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
-C:\Users\minka\source\repos\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Humanizer.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\minka\source\repos\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ApplicationCore.deps.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ApplicationCore.runtimeconfig.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ApplicationCore.exe
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\appsettings.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Infrastructure.exe
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Azure.Core.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Humanizer.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Drawing.Common.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Memory.Data.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Runtime.Caching.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\System.Windows.Extensions.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ApplicationCore.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\ApplicationCore.pdb
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\staticwebassets\msbuild.Infrastructure.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\staticwebassets\msbuild.build.Infrastructure.props
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Infrastructure.props
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Infrastructure.props
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\scopedcss\bundle\Infrastructure.styles.css
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\Infrastructure\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ApplicationCore.deps.json
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ApplicationCore.runtimeconfig.json
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ApplicationCore.exe
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/appsettings.json
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Infrastructure.exe
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ApplicationCore.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ApplicationCore.pdb
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastructure.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.Infrastructure.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.build.Infrastructure.props
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Infrastructure.props
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Infrastructure.props
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/scopedcss/bundle/Infrastructure.styles.css
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+C:/Users/minka/source/repos/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Humanizer.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/minka/source/repos/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.deps.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.runtimeconfig.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.exe
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/appsettings.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.exe
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Humanizer.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.pdb
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.Infrastructure.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.build.Infrastructure.props
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Infrastructure.props
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Infrastructure.props
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/scopedcss/bundle/Infrastructure.styles.css
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/appsettings.Development.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/appsettings.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.runtimeconfig.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.staticwebassets.endpoints.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.staticwebassets.endpoints.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Azure.Core.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Azure.Identity.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Humanizer.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.CodeDom.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.MvcApplicationPartsAssemblyInfo.cache
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/scopedcss/bundle/Infrastructure.styles.css
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.Infrastructure.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.Infrastructure.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.build.Infrastructure.props
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Infrastructure.props
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Infrastructure.props
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+/Users/jiaxuanli/AugBatch2024/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

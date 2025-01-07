@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj": {}
+    "/Users/jiaxuanli/AugBatch2024/ApplicationCore/ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj": {
+    "/Users/jiaxuanli/AugBatch2024/ApplicationCore/ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "/Users/jiaxuanli/AugBatch2024/ApplicationCore/ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\minka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\obj\\",
+        "projectPath": "/Users/jiaxuanli/AugBatch2024/ApplicationCore/ApplicationCore.csproj",
+        "packagesPath": "/Users/jiaxuanli/.nuget/packages/",
+        "outputPath": "/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\minka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/jiaxuanli/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,8 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -56,6 +54,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -64,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

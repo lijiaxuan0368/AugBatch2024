@@ -24,6 +24,7 @@ namespace MovieShopMVC.Controllers
         public async Task<IActionResult> TopRated()
         {
             var movies = await _movieService.GetTopRatedMovies();
+    
 
             return View(movies);
         }

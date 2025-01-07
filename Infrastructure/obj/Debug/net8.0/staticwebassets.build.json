@@ -1,23 +1,24 @@
 {
   "Version": 1,
-  "Hash": "nL//RHdN8hl+iOgIsI215jk7LhHz0r1JvmdQGf3Plb4=",
+  "Hash": "GPtNkMl41fnlyaWslchrZOWDXugz4GqO1LtYsv90t5g=",
   "Source": "Infrastructure",
   "BasePath": "_content/Infrastructure",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\minka\\OneDrive\\Documents\\.NET Training\\C#\\AugBatch2024\\ApplicationCore\\ApplicationCore.csproj",
+      "Identity": "/Users/jiaxuanli/AugBatch2024/ApplicationCore/ApplicationCore.csproj",
       "Version": 2,
       "Source": "ApplicationCore",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

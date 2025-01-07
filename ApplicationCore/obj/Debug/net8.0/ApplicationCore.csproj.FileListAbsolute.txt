@@ -1,51 +1,80 @@
-C:\Users\minka\source\repos\ApplicationCore\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\minka\source\repos\ApplicationCore\bin\Debug\net8.0\appsettings.json
-C:\Users\minka\source\repos\ApplicationCore\bin\Debug\net8.0\ApplicationCore.exe
-C:\Users\minka\source\repos\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
-C:\Users\minka\source\repos\ApplicationCore\bin\Debug\net8.0\ApplicationCore.runtimeconfig.json
-C:\Users\minka\source\repos\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
-C:\Users\minka\source\repos\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\ApplicationCore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\staticwebassets\msbuild.ApplicationCore.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\staticwebassets\msbuild.build.ApplicationCore.props
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApplicationCore.props
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApplicationCore.props
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\scopedcss\bundle\ApplicationCore.styles.css
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\ApplicationCore.genruntimeconfig.cache
-C:\Users\minka\source\repos\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\bin\Debug\net8.0\appsettings.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\bin\Debug\net8.0\ApplicationCore.exe
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\bin\Debug\net8.0\ApplicationCore.runtimeconfig.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ApplicationCore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\staticwebassets\msbuild.ApplicationCore.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\staticwebassets\msbuild.build.ApplicationCore.props
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApplicationCore.props
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApplicationCore.props
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\scopedcss\bundle\ApplicationCore.styles.css
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ApplicationCore.genruntimeconfig.cache
-C:\Users\minka\OneDrive\Documents\.NET Training\C#\AugBatch2024\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
+C:/Users/minka/source/repos/ApplicationCore/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/minka/source/repos/ApplicationCore/bin/Debug/net8.0/appsettings.json
+C:/Users/minka/source/repos/ApplicationCore/bin/Debug/net8.0/ApplicationCore.exe
+C:/Users/minka/source/repos/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+C:/Users/minka/source/repos/ApplicationCore/bin/Debug/net8.0/ApplicationCore.runtimeconfig.json
+C:/Users/minka/source/repos/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+C:/Users/minka/source/repos/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/ApplicationCore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.ApplicationCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.build.ApplicationCore.props
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApplicationCore.props
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApplicationCore.props
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/scopedcss/bundle/ApplicationCore.styles.css
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/ApplicationCore.genruntimeconfig.cache
+C:/Users/minka/source/repos/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/bin/Debug/net8.0/appsettings.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.exe
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.runtimeconfig.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.ApplicationCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.build.ApplicationCore.props
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApplicationCore.props
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApplicationCore.props
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/scopedcss/bundle/ApplicationCore.styles.css
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.genruntimeconfig.cache
+C:/Users/minka/OneDrive/Documents/.NET Training/C#/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/bin/Debug/net8.0/appsettings.Development.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/bin/Debug/net8.0/appsettings.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.staticwebassets.endpoints.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.runtimeconfig.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.MvcApplicationPartsAssemblyInfo.cache
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/scopedcss/bundle/ApplicationCore.styles.css
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.ApplicationCore.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.ApplicationCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.build.ApplicationCore.props
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApplicationCore.props
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApplicationCore.props
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ApplicationCore.genruntimeconfig.cache
+/Users/jiaxuanli/AugBatch2024/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
